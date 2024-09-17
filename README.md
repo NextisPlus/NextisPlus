@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dave Wellsborn</h1>
+<h1 align="center">Hi 👋, I'm Adrien Dupuis</h1>
 <h3 align="center">A beginner in Python and a Student in the University of Strasbourg</h3>
 
 - 🌱 I’m currently learning **Python, bash, C, git**
